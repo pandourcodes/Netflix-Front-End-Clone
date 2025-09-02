@@ -334,7 +334,6 @@ nav span img{
 
 @media (max-width: 370px){
     nav{
-        border: 2px solid red;
         flex-direction: column;
         justify-content: space-evenly;
     }
@@ -358,3 +357,4 @@ nav span img{
         height: 12rem;
     }
 }
+
