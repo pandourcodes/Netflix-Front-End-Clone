@@ -478,6 +478,9 @@ nav span img{
         font-size: 1.2em;
         letter-spacing: -0.02em;
     }
+    .suggestions{
+        height:25em;
+    }
 }
 
 @media (max-width: 370px){
@@ -498,6 +501,7 @@ nav span img{
     }
 
 }
+
 
 
 
